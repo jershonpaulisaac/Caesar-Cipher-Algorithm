@@ -16,10 +16,21 @@ A simple Python program to **encrypt and decrypt text using the classic Caesar C
 4. View the output in the console.
 
 ## Example
+-------Encryptor/Decryptor-------
+
+Choose an option:
+1. Encrypt
+2. Decrypt
+
 Enter your choice (1 or 2): 1
+
+You chose to Encrypt the text.
+
 Enter the text to encrypt: Hello, World!
 Enter the shift value: 4
+
 Cipher text: Lipps, Asvph!
+
 
 
 ## Requirements
